@@ -16,6 +16,11 @@ The next step would be try out Twiddle or SGD or some other automative method of
 
 The video result can be found [here](https://www.youtube.com/watch?v=yQKvuFybge0&t=18s)
 
+### Resources
+* [Self-Tuning PID Controller for Autonomous Car Tracking in Urban Traffic](http://oa.upm.es/30015/1/INVE_MEM_2013_165545.pdf)
+* [PID Control System Design, Chapter 6 by Karl Johan Astrom and Richard Murray](https://www.cds.caltech.edu/~murray/courses/cds101/fa02/caltech/astrom-ch6.pdf)
+* [PID Tuning Guide: A Best-Practices Approach](https://www.novatechweb.com/wp-content/uploads/2011/03/PID_Tuning_Guide_022810.pdf)
+
 ### Basic Build Instructions
 
 1. Clone this repo.
